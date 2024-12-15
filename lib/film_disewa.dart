@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:sanflix_ta/detail_film.dart';
 
-class FilmDibeli extends StatefulWidget {
-  const FilmDibeli({super.key});
+class FilmDisewa extends StatefulWidget {
+  const FilmDisewa({super.key});
 
   @override
-  State<FilmDibeli> createState() => _FilmDibeliState();
+  State<FilmDisewa> createState() => _FilmDibeliState();
 }
 
-class _FilmDibeliState extends State<FilmDibeli> {
+class _FilmDibeliState extends State<FilmDisewa> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
